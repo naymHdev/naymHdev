@@ -11,7 +11,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 ## 📈 GitHub Stats
 
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/naymhossen1b)
+[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/naymHdev)
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
@@ -26,7 +26,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 ## 📊 Current Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymhossen1b&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
 </p>
 
 ## 📫 Connect with Me
