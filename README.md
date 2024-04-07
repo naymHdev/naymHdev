@@ -7,23 +7,19 @@
 
 I'm a dedicated MERN Stack developer passionate about crafting outstanding web development experiences. As an expert in Front-end Technologies, I specialize in building scalable and responsive web solutions. Currently, I'm honing my skills with a focus on learning Next.js. With a robust proficiency in the MERN stack, I bring ideas to life by implementing clean and efficient code.
 
-<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
-
 ## 📈 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&title_color=2ED573&text_color=2ED573)](https://github.com/naymHdev)
-
-
-
-<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
+<p align="center">
+  <a href="https://github.com/naymHdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&title_color=2ED573&text_color=2ED573" alt="Top Languages">
+  </a>
+</p>
 
 <!-- Technologies & Tools -->
 
 ## 🚀 Skills and Expertise
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
-
-<div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
 
 ## 📊 Current Stats
 
@@ -59,7 +55,6 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT
 - [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
-
 
 <!-- Currently Learning -->
 
