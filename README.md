@@ -7,27 +7,27 @@
 
 I'm a dedicated MERN Stack developer passionate about crafting outstanding web development experiences. As an expert in Front-end Technologies, I specialize in building scalable and responsive web solutions. Currently, I'm honing my skills with a focus on learning Next.js. With a robust proficiency in the MERN stack, I bring ideas to life by implementing clean and efficient code.
 
-<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
-
-## 📈 My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E)](https://github.com/naymHdev)
-
-<div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
-
 <!-- Technologies & Tools -->
 
 ## 🚀 Skills and Expertise
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
 
-<div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
-
 ## 📊 Current Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
-</p>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div>
+        <a href="https://github.com/naymHdev">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E" alt="Top Languages">
+        </a>
+    </div>
+    <div>
+        <p align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
+        </p>
+    </div>
+</div>
+
 
 ## 📫 Connect with Me
 
