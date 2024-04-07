@@ -9,9 +9,11 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
-[![](https://raw.githubusercontent.com/naymhossen1b/naymhossen/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/naymHdev)
+<a href="https://github.com/naymHdev">
+<img align="center" src="https://camo.githubusercontent.com/1312f06724fb0d351b32e88fbbb4e5d6a12f4fc1d59a54fb820b1850b62a812d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737564686565726a267468656d653d6c6967687426636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" width="100%" alt="Naym's most used languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&amp;theme=dark&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
+</a>
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
@@ -57,7 +59,6 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT
 - [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
-
 
 <!-- Currently Learning -->
 
