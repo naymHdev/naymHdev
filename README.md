@@ -11,9 +11,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 ## 📈 My GitHub Stats
 
-<a href="https://github.com/naymHdev">
-<img align="center" src="https://camo.githubusercontent.com/1312f06724fb0d351b32e88fbbb4e5d6a12f4fc1d59a54fb820b1850b62a812d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737564686565726a267468656d653d6c6967687426636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" width="100%" alt="Naym's most used languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&amp;theme=dark&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E)](https://github.com/naymHdev)
 
 <div  style="margin-top: 50px; margin-bottom: 50px;" ></div>
 
