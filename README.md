@@ -15,17 +15,13 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 ## 📊 Current Stats
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div>
-        <a href="https://github.com/naymHdev">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E" alt="Top Languages">
-        </a>
-    </div>
-    <div>
-        <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
-        </p>
-    </div>
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E" alt="Top Languages">
+  </div>
+  <div style="flex: 1; margin-left: 5px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
+  </div>
 </div>
 
 
