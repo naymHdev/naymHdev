@@ -15,6 +15,12 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
   </a>
 </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/naymHdev?label=Follow&style=social)](https://github.com/naymHdev)
+[![GitHub last commit](https://img.shields.io/github/last-commit/naymHdev/naymHdev?style=flat)](https://github.com/naymHdev/naymHdev)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/naymHdev/naymHdev)](https://github.com/naymHdev/naymHdev)
+[![GitHub issues](https://img.shields.io/github/issues/naymHdev/naymHdev)](https://github.com/naymHdev/naymHdev/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/naymHdev/naymHdev)](https://github.com/naymHdev/naymHdev/pulls)
+
 <!-- Technologies & Tools -->
 
 ## 🚀 Skills and Expertise
