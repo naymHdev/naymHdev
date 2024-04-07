@@ -14,27 +14,19 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
 
 ## 📊 Current Stats
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 5px; display: flex; flex-direction: column;">
-    <div>
-      <span style="align-self: center;">Top Languages</span>
+
+<div style="text-align: center;">
+    <div style="display: inline-block;">
+        <a href="https://github.com/naymHdev">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E" alt="Top Languages">
+        </a>
     </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&text_color=2DA44E" alt="Top Languages">
+    <div style="display: inline-block;">
+        <p align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
+        </p>
     </div>
-  </div>
-  <div style="margin-left: 5px; display: flex; flex-direction: column;">
-    <div>
-      <span style="align-self: center;">GitHub Streak</span>
-    </div>
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
-    </div>
-  </div>
 </div>
-
-
-
 
 
 ## 📫 Connect with Me
