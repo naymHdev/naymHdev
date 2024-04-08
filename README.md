@@ -34,7 +34,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-naymHdev-181717?logo=github&logoColor=white)](https://github.com/naymHdev)
-[![Twitter](https://img.shields.io/badge/Twitter-naymHdev-1DA1F2?logo=twitter&logoColor=white)]([https://twitter.com/naymHdev](https://twitter.com/naymHdev))
+[![Twitter](https://img.shields.io/badge/Twitter-naymHdev-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naymHdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naym%20Hossen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhdev)
 [![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymHdev)
 
