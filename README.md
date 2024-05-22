@@ -68,4 +68,15 @@ I'm currently expanding my knowledge and expertise in the following areas:
 
 - **Redux:** Redux is a state management library for JavaScript applications, providing a predictable and centralized approach to managing application state.
 
+
+## ☕ Buy Me a Coffee
+
+If you enjoy my work and would like to support me, you can buy me a coffee!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/naymhossen1b" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=naymhossen1b&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
+  </a>
+</p>
+
 <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
