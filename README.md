@@ -11,7 +11,7 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 ## 🚀 Skills and Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,git,github,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,typescript,python,git,github,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,netlify,npm,yarn,pnpm,postman,&theme=light)](https://skillicons.dev)
 
 ## 📊 GitHub Current Stats
 
@@ -34,31 +34,9 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-naymHdev-181717?logo=github&logoColor=white)](https://github.com/naymHdev)
-[![Twitter](https://img.shields.io/badge/Twitter-naymHdev-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naymHdev)
+[![Twitter](https://img.shields.io/badge/Twitter-naymHdev-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/naymhossen1b)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naym%20Hossen-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhdev)
 [![Facebook](https://img.shields.io/badge/Facebook-Naym%20Hossen-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/naymHdev)
-
-## 🔥 Projects
-
-### 🛍️ E-commerce Base Project
-
-- **Description:** Welcome to our E-commerce project! This application is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing a robust and scalable solution for online shopping.
-- **Technologies Used:**
-  - Frontend: JavaScript, React.js, Tailwind CSS
-  - Backend: Express.js, Node.js
-  - Database: MongoDB
-  - Authentication: Firebase Authentication with JWT
-- [Client Site](https://github.com/naymhossen1b/UrbanHaven-Client-Site) - [Server Site](https://github.com/naymhossen1b/UrbanHaven-Server-Site) - [Urban Haven](https://urben-haven.netlify.app)
-
-### 🏋️ Fitness Tracking Website
-
-- **Description:** A fitness tracking website designed to help users monitor their workouts and track fitness progress. Users can log exercises, set goals, or apply for trainers and view their achievements.
-- **Technologies Used:**
-  - Frontend: JavaScript, React.js, Tailwind CSS
-  - Backend: Express.js, Node.js
-  - Database: MongoDB
-  - Authentication: Firebase Authentication with JWT
-- [Client Site](https://github.com/naymhossen1b/Fintex-Fitness-Client-Code) - [Server Site](https://github.com/naymhossen1b/Fintex-Fitness-Server-Code-) - [Live Demo](https://fintex-fitness.netlify.app)
 
 <!-- Currently Learning -->
 
@@ -66,17 +44,10 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 
 I'm currently expanding my knowledge and expertise in the following areas:
 
-- **Redux:** Redux is a state management library for JavaScript applications, providing a predictable and centralized approach to managing application state.
+- **TypeScript**
+- **Redux**
+- **Python**
 
-
-## ☕ Buy Me a Coffee
-
-If you enjoy my work and would like to support me, you can buy me a coffee!
-
-<p align="center">
-  <a href="https://buymeacoffee.com/naymhossen1b" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=naymhossen1b&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
-  </a>
-</p>
+I'm excited to delve deeper into these technologies and integrate them into my projects to build robust, scalable, and efficient applications.
 
 <span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
