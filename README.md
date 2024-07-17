@@ -45,8 +45,6 @@ I'm a dedicated MERN Stack developer passionate about crafting outstanding web d
 I'm currently expanding my knowledge and expertise in the following areas:
 
 - **TypeScript**
-- **Redux**
-- **Python**
 
 I'm excited to delve deeper into these technologies and integrate them into my projects to build robust, scalable, and efficient applications.
 
