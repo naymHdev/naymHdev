@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** who thrives on crafting elegant, responsive, and high-performance web applications. With a strong foundation in **JavaScript**, **React**, and **Node.js**, I specialize in building intuitive UIs and efficient backends using the **MERN Stack**.
+I'm a **Full-Stack Developer** who thrives on crafting elegant, responsive, and high-performance web applications. With a strong foundation in **JavaScript**, **React**, **Next.js**, **TypeScript**, and **Node.js**, I specialize in building intuitive UIs and efficient backends using the **MERN Stack**.
 
-I'm currently leveling up my skills in **Next.js** and **System Design**, with a strong focus on performance, scalability, and clean code.
+I'm currently leveling up my skills in **System Design**, with a strong focus on performance, scalability, and clean code.
 
 🔍 I'm always exploring new technologies, solving real-world problems, and turning ideas into impactful digital products.
 
