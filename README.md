@@ -4,7 +4,7 @@
 
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <h2>Hi there! 👋 I'm Naym</h2>
-  <h3>💻 Full-Stack Developer | ⚡ MERN Stack Expert | Building Clean, Scalable Web Apps</h3>
+  <h3>Delivering production-ready SaaS, AI/LLM integrations, and business automation that scale for international founders and distributed teams.</h3>
 </div>
 
 ---
