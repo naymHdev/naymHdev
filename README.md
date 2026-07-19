@@ -2,9 +2,10 @@
   <img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" alt="GitHub Banner" style="max-width: 100%;">
 </p>
 
-<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <h2>Hi there! 👋 I'm Naym</h2>
   <p>Delivering production-ready SaaS, AI/LLM integrations, and business automation that scale for international founders and distributed teams.</p>
+<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
+
   <h3>Delivering production-ready SaaS, AI/LLM integrations, and business automation that scale for international founders and distributed teams.</h3>
 </div>
 
