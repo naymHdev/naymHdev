@@ -2,85 +2,56 @@
   <img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" alt="GitHub Banner" style="max-width: 100%;">
 </p>
 
-  <h2>Hi there! 👋 I'm Naym</h2>
-  <p>Delivering production-ready SaaS, AI/LLM integrations, and business automation that scale for international founders and distributed teams.</p>
-<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
+# Naym Hossen
+Delivering production-ready SaaS, AI/LLM integrations, and business automation that scale for international founders and distributed teams.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://naymhossen.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhdev) [![Available for work](https://img.shields.io/badge/Availability-Open%20for%20select%20engagements-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](#lets-work-together)
 
-  <h3>Delivering production-ready SaaS, AI/LLM integrations, and business automation that scale for international founders and distributed teams.</h3>
-</div>
+🔹 About
+- Senior full‑stack engineer focused on shipping production SaaS and LLM-enabled features for international clients (primary market: Australia + remote teams).  
+- I own end-to-end delivery: product-grade architecture, multi-tenant design, secure payments (Stripe), observability, and cloud deployment.  
+- Experienced integrating LLMs into user workflows, building reliable prompt/response pipelines, and operationalizing models for real business outcomes.  
+- Remote-first collaborator who pairs technical leadership with pragmatic delivery to reduce time-to-value for product teams.
 
----
+🔹 What I Help Clients Build
+| Focus | Concrete deliverable |
+| --- | --- |
+| SaaS Development | Production multi-tenant web platform with billing, role-based access, CI/CD and observability. |
+| AI Chatbot / LLM Integration | LLM-powered assistants, retrieval-augmented pipelines, and moderation + logging for safe, auditable responses. |
+| Business Automation | End-to-end automation (webhooks, ETL, queued workers) to remove manual bottlenecks and cut operating costs. |
+| API & System Design | Stable, versioned APIs, event-driven integrations, and fault-tolerant microservices for scale and maintainability. |
 
-## 👨‍💻 About Me
+🔹 Tech stack
+- Languages & Runtime  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-I'm a **Full-Stack Developer** who thrives on crafting elegant, responsive, and high-performance web applications. With a strong foundation in **JavaScript**, **React**, **Next.js**, **TypeScript**, and **Node.js**, I specialize in building intuitive UIs and efficient backends using the **MERN Stack**.
+- Frontend  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-I'm currently leveling up my skills in **System Design**, with a strong focus on performance, scalability, and clean code.
+- Backend & ORM  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
-🔍 I'm always exploring new technologies, solving real-world problems, and turning ideas into impactful digital products.
+- Databases & Cache  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white)
 
----
+- Infrastructure & DevOps  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🚀 Skills & Technologies
+- Payments & AI  
+  ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,typescript,git,github,react,nextjs,redux,nodejs,express,mongodb,mongoose,figma,vscode,netlify,npm,yarn,pnpm,postman&theme=light)](https://skillicons.dev)
+🔹 Featured work
+- [arch-ai](https://github.com/naymHdev/arch-ai) — LLM orchestration and knowledge retrieval system designed for operational workflows and enterprise knowledge ops.  
+- [PunarBay](https://github.com/naymHdev/PunarBay) — Multi-tenant marketplace SaaS with integrated Stripe billing and admin analytics for international merchants.  
 
----
+See the portfolio for client case studies and outcomes: https://naymhossen.vercel.app
 
-## 📊 GitHub Stats
+🔹 GitHub activity
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=dark&hide_border=true&background=00000000)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
-<p align="center">
-  <a href="https://github.com/naymHdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=green_nur&ring=2DA44E&fire=2DA44E&sideNums=2DA44E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=2DA44E&background=000000&stroke=2DA44E&border=none" alt="GitHub Streak">
-  </a>
-</p>
+🔹 Let's work together
+I'm taking a small number of select freelance and contract engagements where I can add measurable business value quickly — SaaS product launches, AI feature delivery, and automation that reduces operating cost. If you have a product or use-case that needs a senior engineer who can run discovery, implementation, and handoff, reach out:  
 
-<p align="center">
-  <a href="https://github.com/naymHdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=dark&title_color=2ED573&text_color=2ED573" alt="Top Languages">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naymhdev) [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://naymhossen.vercel.app) [![X](https://img.shields.io/badge/X-@naymHdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/naymHdev) [![Medium](https://img.shields.io/badge/Medium-@naymhossen1b-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naymhossen1b)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/naymHdev?label=Followers&style=social">
-  <img src="https://img.shields.io/github/last-commit/naymHdev/naymHdev?style=flat">
-  <img src="https://img.shields.io/github/commit-activity/m/naymHdev/naymHdev">
-  <img src="https://img.shields.io/github/issues/naymHdev/naymHdev">
-  <img src="https://img.shields.io/github/issues-pr/naymHdev/naymHdev">
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-I'm currently diving deep into:
-
-- ⚙️ **Next.js 15 (App Router, SSR/SSG/ISR)**
-- 📐 **System Design & Scalable Architecture**
-- 💡 **Clean Code Principles**
-- 🧠 **Performance Optimization Techniques**
-
-These help me build faster, cleaner, and more maintainable apps — perfect for real-world scaling.
-
----
-
-## 🔗 Let's Connect!
-
-<p align="">
-  <a href="https://www.linkedin.com/in/naymhdev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.x.com/naymhdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/naymh.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.youtube.com/@CleanCodeAI"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-  <a href="https://medium.com/@naymhossen1b"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-  <a href="https://dev.to/naymhdev"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</p>
-
----
-
-<div align="">
-
-📂 _Explore my repositories for real-world full-stack projects_  
-🌟 _If you like what I do, drop a ⭐ — it means a lot!_  
-🧑‍💻 _Always open to collaboration, freelance, and cool ideas!_
-
-</div>
+Available for remote work with Australian and international clients — propose your goal, timeline, and a high-level budget and I’ll respond with a pragmatic plan to deliver outcomes.Ï
