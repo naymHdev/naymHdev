@@ -2,7 +2,7 @@
 
 <img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" width="100%" alt="Naym Hossen Banner" />
 
-<h1>Hi, I'm Naym 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBE2F7&width=435&lines=Hi%2C+I'm+Naym+Hossen+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <h3>Full Stack Engineer building SaaS, AI & automation products for international clients</h3>
 
@@ -68,12 +68,8 @@ Currently building toward indie SaaS products of my own, alongside client work.
 
 <br/>
 
-## GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=transparent&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=transparent&hide_border=true"/>
+<a><img src="https://github-readme-streak-stats.herokuapp.com?user=naymHdev&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
