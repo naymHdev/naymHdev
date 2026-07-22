@@ -1,177 +1,105 @@
-<p align="center">
-  <img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" width="100%" alt="Naym Hossen Banner" />
+<div align="center">
+
+<img src="./assets/White_Minimalist_Profile_LinkedIn_Banner-removebg-preview.png" width="100%" alt="Naym Hossen Banner" />
+
+<h1>Hi, I'm Naym 👋</h1>
+
+<h3>Full Stack Engineer building SaaS, AI & automation products for international clients</h3>
+
+<p>
+I turn ideas into production-ready software — from backend architecture to shipped, revenue-generating products.
 </p>
 
-<h1 align="center">Naym Hossen</h1>
-
-<p align="center">
-Backend-Focused Full Stack Engineer • SaaS • AI • Automation
-</p>
-
-<p align="center">
-I build production-ready SaaS applications, scalable backend systems, and AI-powered products that help startups ship faster and grow with confidence.
-</p>
-
-<p align="center">
+<p>
   <a href="https://naymhossen.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/naymhdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://github.com/naymHdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://twitter.com/naymHdev">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
----
+</div>
 
-## About
+<br/>
 
-I'm a backend-focused Full Stack Software Engineer passionate about building scalable SaaS platforms, AI-powered applications, and business automation systems.
+## About Me
 
-I enjoy turning complex ideas into reliable software—from architecture and APIs to cloud deployment—while keeping performance, maintainability, and user experience at the center.
+I'm a backend-focused Full Stack Engineer who builds **scalable SaaS platforms**, **AI-powered products**, and **business automation systems** for startups and founders.
 
----
+I care less about "code that runs" and more about **systems that hold up in production** — clean architecture, sane data models, and infrastructure that doesn't fall over when real users show up.
+
+Currently building toward indie SaaS products of my own, alongside client work.
+
+<br/>
 
 ## What I Build
 
-- 🚀 Multi-Tenant SaaS Platforms
-- 🤖 AI & LLM Integrations
-- ⚙️ Business Process Automation
-- 🔐 Authentication & Role-Based Access
-- 💳 Stripe Subscription & Payment Systems
-- ☁️ Cloud Infrastructure & Deployment
+|                            |                                                                    |
+| -------------------------- | ------------------------------------------------------------------ |
+| 🚀 **SaaS Platforms**      | Multi-tenant architecture, subscription billing, role-based access |
+| 🤖 **AI Integrations**     | LLM-powered features, RAG pipelines, AI chat & automation          |
+| ⚙️ **Business Automation** | Workflow tools that replace manual ops with software               |
+| 💳 **Payments**            | Stripe subscriptions, usage-based billing, webhooks                |
+| 🔐 **Auth & Security**     | Role-based access, session handling, secure APIs                   |
+| ☁️ **Cloud Infra**         | Deployment, CI/CD, containerized services                          |
 
----
+<br/>
 
 ## Tech Stack
 
-### Languages
-
-`TypeScript` • `JavaScript`
-
-### Frontend
-
-`Next.js` • `React` • `Tailwind CSS`
-
-### Backend
-
-`Node.js` • `Express.js` • `Prisma`
-
-### Database
-
-`PostgreSQL` • `MongoDB` • `Redis`
-
-### DevOps
-
-`Docker` • `AWS` • `Vercel` • `Nginx`
-
-### AI
-
-`OpenAI` • `LLMs` • `RAG`
-
----
-
-## Tools
-
-<p align="center">
+<div align="start">
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,prisma,postgres,mongodb,redis,docker,aws,git,github,vscode,postman" />
 
-</p>
+</div>
 
----
+|               |                              |
+| ------------- | ---------------------------- |
+| **Languages** | TypeScript, JavaScript       |
+| **Frontend**  | Next.js, React, Tailwind CSS |
+| **Backend**   | Node.js, Express.js, Prisma  |
+| **Database**  | PostgreSQL, MongoDB, Redis   |
+| **DevOps**    | Docker, AWS, Vercel, Nginx   |
+| **AI:**       | OpenAI API, LLMs, RAG        |
 
-## Featured Projects
-
-### 🧠 Arch AI
-
-AI-powered knowledge platform designed for intelligent retrieval, workflow automation, and enterprise productivity.
-
-**Tech:** Next.js • Node.js • PostgreSQL • OpenAI • Vector Search
-
-🔗 https://github.com/naymHdev/arch-ai
-
----
-
-### 🛒 PunarBay
-
-A scalable multi-tenant marketplace platform featuring Stripe billing, role-based access control, and an advanced admin dashboard.
-
-**Tech:** Next.js • Express • PostgreSQL • Prisma • Stripe
-
-🔗 https://github.com/naymHdev/PunarBay
-
----
+<br/>
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=naymHdev&theme=transparent&hide_border=true"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naymHdev&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naymHdev&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
+<br/>
 
 ## Currently Exploring
 
-- AI Agents
-- Advanced RAG Systems
-- Event-Driven Architecture
-- Distributed Systems
-- Cloud Infrastructure
-- High-Performance Backend Design
+`AI Agents` · `Advanced RAG Systems` · `Event-Driven Architecture` · `Distributed Systems` · `High-Performance Backend Design`
 
----
+<br/>
 
-## Let's Connect
+## Let's Work Together
 
-If you're building a SaaS product, integrating AI, or scaling your backend infrastructure, I'd love to collaborate.
+Building a SaaS product? Need AI integrated into your product? Scaling backend infrastructure? Let's talk.
 
-<p align="center">
+<div align="center">
 
 <a href="https://naymhossen.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/naymhdev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+<br/><br/>
 
-<a href="https://twitter.com/naymHdev">
-<img src="https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white"/>
-</a>
+<i>Clean architecture. Real business impact. Shipped, not just coded.</i>
 
-&nbsp;
-
-<a href="https://medium.com/@naymhossen1b">
-<img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>Crafting software with clean architecture, thoughtful engineering, and measurable business impact.</i>
-</p>
+</div>
