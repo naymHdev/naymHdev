@@ -20,6 +20,7 @@ I turn ideas into production-ready software — from backend architecture to shi
   <a href="https://twitter.com/naymHdev">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=naymHdev&label=Profile+Views&color=0dbfd7&style=for-the-badge" />
 </p>
 
 </div>
