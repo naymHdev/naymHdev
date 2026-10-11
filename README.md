@@ -38,7 +38,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Role:** Jr. Backend Developer at **SparkTech Agency** (building secure backend architectures, REST APIs, and scalable SaaS infrastructure).
+- 💼 **Current Role:** Backend Developer at **SparkTech Agency** (building secure backend architectures, REST APIs, and scalable SaaS infrastructure).
 - 🧠 **Engineering Mindset:** *"I don't stop at 'it works.' Before I call something done, I ask what breaks it — bad input, concurrent requests, or server restarts mid-transaction."*
 - 🚀 **Core Specialty:** Scalable multi-tenant SaaS platforms, AI / LLM pipeline integration, subscription billing systems, and cloud-native backend services.
 - 📍 **Location:** Dhaka, Bangladesh.
@@ -121,17 +121,11 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naymHdev&theme=tokyonight&hide_border=true&background=0b1620&ring=4caf6a&fire=4caf6a&currStreakLabel=4caf6a&currStreakNum=ffffff&sideNums=8b949e&sideLabels=8b949e" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naymHdev&theme=tokyonight&hide_border=true&background=0b1620&ring=4caf6a&fire=4caf6a&currStreakLabel=4caf6a&currStreakNum=ffffff&sideNums=8b949e&sideLabels=8b949e" width="100%" height="165" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/4caf6a/naymHdev" alt="naymHdev's GitHub Contribution Grid" />
-</div>
 
 ---
 
